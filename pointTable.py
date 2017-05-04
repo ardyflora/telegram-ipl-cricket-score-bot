@@ -1,11 +1,5 @@
-import sqlite3
-from datetime import datetime
 import lxml.html
-from dateutil import parser
-from dateutil import tz
 import prettytable
-
-HERE = tz.tzlocal()
 
 
 pointTableUrl = 'http://www.espncricinfo.com/indian-premier-league-2017/engine/series/1078425.html?view=pointstable'
