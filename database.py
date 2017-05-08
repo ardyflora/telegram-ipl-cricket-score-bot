@@ -3,7 +3,7 @@ import sqlite3
 
 def create_iplPoints(c):
     c.execute('''CREATE TABLE iplPoints
-              (Teams text, MAT integer, WON integer, Lost integer, TIED integer, NR integer , PTS integer, NETRR text, FOR text, AGAINST text)''')
+              (Rank integer, Teams text, MAT integer, WON integer, Lost integer, TIED integer, NR integer , PTS integer, NETRR text, FOR text, AGAINST text)''')
 
 # Create fixtures table
 # game: Fixtures
@@ -18,7 +18,7 @@ def create_iplPoints(c):
 
 def create_fixtures(c):
     c.execute('''CREATE TABLE fixtures
-              (id integer primary key, game text, deadline ts)''')
+              (id integer primary key, game text, deadline ts, team1Category integer, team2Category integer)''')
 
 
 def init_database():
