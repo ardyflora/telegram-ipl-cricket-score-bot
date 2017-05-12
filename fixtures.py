@@ -54,7 +54,6 @@ class Fixtures:
 		else:
 			print "team name here: ",teamName
 			ids = c.execute("SELECT Rank From iplPoints where Teams = '%s';" % teamName)
-			print "str val of rank: ",ids.fetchall()[0][0],
 			return str(ids)
 
 

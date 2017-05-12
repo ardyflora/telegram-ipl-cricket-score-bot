@@ -35,6 +35,17 @@ Please refer to screenshots below to see `telegram IPL cricket score bot` in act
 * lmxl - which is used to scrape the cricinfo website
    * To install lxml, Please follow: http://lxml.de/installation.html
 
+## How to Execute?
+* Execute in following order:
+  
+  `python database.py` - This will create the *iplPoints.db* file. 
+
+  `python pointTable.py` - This will insert iplPoint Table into iplPoints.db
+
+  `python fixtures.py` - This will insert fixtures Tables into iplPoints.db
+
+  `python interface.py` - Once this is running, you can go to telegram and open **pointTableCricinfo bot** where you can type `/start` to start the telegram bot, it should return _I'm a bot, please talk to me!_. Once you can see  that, you can run any of the two commands `/fixtures` or `/iplpoints`
+
 ## Release History
 * 0.0.1
     * Work in progress
