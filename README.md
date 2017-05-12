@@ -13,7 +13,7 @@ Please refer to screenshots below to see `telegram IPL cricket score bot` in act
 
 ## Benefits
 * You don't have to browse through the *cricinfo website* to find the latest IPL points table, with just one command you will get the immediate update.
-* *Cricinfo IPL fixtures* webpage will show you the full schedule, which makes it tedius to scroll down and look for upcoming fixtures but with the `telegram IPL cricket score bot` you will be able to see next 5 day fixtures with just one command 
+* *Cricinfo IPL fixtures* webpage will show you the full schedule, which makes it tedious to scroll down and look for upcoming fixtures but with the `telegram IPL cricket score bot` you will be able to see next 5 day fixtures with just one command 
 
 
 ## Features to be added
@@ -32,7 +32,7 @@ Please refer to screenshots below to see `telegram IPL cricket score bot` in act
     https://github.com/python-telegram-bot/python-telegram-bot
 * PrettyTable - Which is used to display the result as shown in the **telegram Ipl cricket score bot screenshot** above
    * To install PrettyTable, Please follow: https://pypi.python.org/pypi/PrettyTable
-   * 
+
 ## Release History
 * 0.0.1
     * Work in progress
