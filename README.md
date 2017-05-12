@@ -32,6 +32,8 @@ Please refer to screenshots below to see `telegram IPL cricket score bot` in act
     https://github.com/python-telegram-bot/python-telegram-bot
 * PrettyTable - Which is used to display the result as shown in the **telegram Ipl cricket score bot screenshot** above
    * To install PrettyTable, Please follow: https://pypi.python.org/pypi/PrettyTable
+* lmxl - which is used to scrape the cricinfo website
+   * To install lxml, Please follow: http://lxml.de/installation.html
 
 ## Release History
 * 0.0.1
