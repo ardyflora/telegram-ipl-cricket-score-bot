@@ -8,8 +8,8 @@ Some of the cool features:
 
 Please refer to screenshots below to see `telegram IPL cricket score bot` in action:
 
-![IPL Fixture in telegram bot](https://snag.gy/uoBcxK.jpg)
-![IPL Points in telegram bot](https://snag.gy/5IPNvx.jpg)
+<img src="https://snag.gy/uoBcxK.jpg" width="250">
+<img src="https://snag.gy/5IPNvx.jpg" width="250">
 
 ## Benefits
 * You don't have to browse through the *cricinfo website* to find the latest IPL points table, with just one command you will get the immediate update.
