@@ -8,7 +8,7 @@ Some of the cool features:
 
 Please refer to screenshots below to see `telegram IPL cricket score bot` in action:
 
-##### `/Fixtures` in action
+##### `/fixtures` in action
 <img src="https://snag.gy/uoBcxK.jpg" width="300">
 
 ##### `/iplpoints` in action
