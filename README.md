@@ -44,7 +44,7 @@ Please refer to screenshots below to see `telegram IPL cricket score bot` in act
 
   `python fixtures.py` - This will insert fixtures Tables into iplPoints.db
 
-  `python interface.py` - Once this is running, you can go to telegram and open **pointTableCricinfo bot** where you can type `/start` to start the telegram bot, it should return _I'm a bot, please talk to me!_. Once you can see  that, you can run any of the two commands `/fixtures` or `/iplpoints`
+  `python interface.py` - Once this is running, you can go to telegram and open **pointTableCricinfo bot** where you can type `/start` to start the telegram bot, it should return *_I'm a bot, please talk to me!_*. Once you can see  that, you can run any of the two commands `/fixtures` or `/iplpoints`
 
 ## Release History
 * 0.0.1
